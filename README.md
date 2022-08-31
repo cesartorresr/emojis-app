@@ -1,4 +1,4 @@
-# coe2644ea845f503b55bf9976
+# Emoji app
 
 Quick start:
 
